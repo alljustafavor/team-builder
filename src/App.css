@@ -29,3 +29,15 @@ h3{
   height: auto;
   margin: 0 auto;
 }
+
+.list {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  height: 10vh;
+  width: fit-content;
+  margin: 0 auto;
+  padding: 1rem;
+  font-weight: bold;
+  font-size: 2rem;
+}
